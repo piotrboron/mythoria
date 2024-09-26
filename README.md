@@ -1,7 +1,7 @@
 
 # MythoriaMMORPG
 
-Mythoria is an MMORPG based on solid foundations like Tibia, theforgottenserver and OTClientv8, combining much-loved classic concepts into a modern setting and solutions. For me personally, it is also a kind of childhood dream come true.
+Mythoria is an MMORPG based on solid foundations like Tibia, theforgottenserver, OTClientv8 and ModernOt repo, combining much-loved classic concepts into a modern setting and solutions. For me personally, it is also a kind of childhood dream come true.
 
 ## 🚀 Game description
 
