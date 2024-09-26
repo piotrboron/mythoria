@@ -49,10 +49,16 @@ In the world of Mythoria you will find more than 100 properties ranging from sma
 
 If you feel that your balance in the game is insufficient, you can go to an NPC who will be happy to play dice with you.
 
-# Challenges
+# Challenges && problems
 
-** 🚩Doing this kind of project solo was propably not the best idea **
+**🚩Doing this kind of project solo was propably not the best idea**
 
-** 🚩Trying to please all the players has failed spectacularly, sticking to your assumptions could have worked out much better. **
+**🚩Trying to please all the players has failed spectacularly, sticking to your assumptions could have worked out much better.**
+
+**🚩 Choosing an overpriced server for such small needs was not the best decision**
+
+**🚩 Balancing everything in an MMORPG (especially solo) is a big struggle**
+
+**🚩 It takes a lot of time to correct mistakes after others. (Migration from version 8.6 to 10.98 and the map errors associated with it)**
 
 # Image gallery
