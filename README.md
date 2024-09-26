@@ -27,7 +27,7 @@ Games should unite and not divide.
 
 Mythoria combines the world of Tibia with the concept of the Metin2 game, here you can encounter mythical stones falling randomly on the ground of Mythoria from time to time. These stones not only provide large amounts of experience, if you are lucky, valuable items may fall out of them. Be careful, each stone can summon up to 10 monsters at a time to your aid.
 
-PVP
+**PVP**
 
 PVP on Mythoria pays off and is available from level 30.
 
@@ -48,3 +48,5 @@ In the world of Mythoria you will find more than 100 properties ranging from sma
 A little risk never hurt anyone, right?
 
 If you feel that your balance in the game is insufficient, you can go to an NPC who will be happy to play dice with you.
+
+# Challenges
