@@ -51,8 +51,8 @@ If you feel that your balance in the game is insufficient, you can go to an NPC 
 
 # Challenges
 
-**🚩Doing this kind of project solo was propably not the best idea **
+** 🚩Doing this kind of project solo was propably not the best idea **
 
-**🚩Trying to please all the players has failed spectacularly, sticking to your assumptions could have worked out much better.**
+** 🚩Trying to please all the players has failed spectacularly, sticking to your assumptions could have worked out much better. **
 
 # Image gallery
