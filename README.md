@@ -50,3 +50,5 @@ In the world of Mythoria you will find more than 100 properties ranging from sma
 If you feel that your balance in the game is insufficient, you can go to an NPC who will be happy to play dice with you.
 
 # Challenges
+
+# Image gallery
