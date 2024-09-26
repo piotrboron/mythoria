@@ -3,6 +3,14 @@
 
 Mythoria is an MMORPG based on solid foundations like Tibia, theforgottenserver, OTClientv8 and ModernOt repo, combining much-loved classic concepts into a modern setting and solutions. For me personally, it is also a kind of childhood dream come true.
 
+## how to host your own Mythoria :
+curl https://github.com/otland/forgottenserver/archive/refs/tags/v1.4.2.zip
+then unpack it
+compile using this guide https://github.com/otland/forgottenserver/wiki/Compiling
+mix files from v1.4.2.zip with this repo
+(client & serverfiles will be available soon)
+
+
 ## 🚀 Game description
 
 The world of Mythoria is based on the now iconic Evolutions concept from 2007. You'll find more than 100 expansions and 3 cities, and the world will be expanded in every major patch. There's also room for a beach or a haunted field by Halloween pumpkins.
