@@ -66,3 +66,17 @@ If you feel that your balance in the game is insufficient, you can go to an NPC 
 # Image gallery
 
 ![alt text](http://url/to/img.png](https://github.com/piotrboron/mythoria/blob/main/images/0i9Msu5.png)](https://raw.githubusercontent.com/piotrboron/mythoria/refs/heads/main/images/0i9Msu5.png))
+
+# MYTHORIA IN NUMBERS
+
+9803 items on characters
+1444 items in houses
+782 deaths
+384 characters
+266 accounts
+241 houses
+68 operations in the item shop
+52 occupied houses
+7 deleted characters
+3 banned accounts
+
