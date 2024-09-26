@@ -63,4 +63,4 @@ If you feel that your balance in the game is insufficient, you can go to an NPC 
 
 # Image gallery
 
-![alt text]([http://url/to/img.png](https://github.com/piotrboron/mythoria/blob/main/images/0i9Msu5.png))
+![alt text](http://url/to/img.png](https://github.com/piotrboron/mythoria/blob/main/images/0i9Msu5.png)](https://raw.githubusercontent.com/piotrboron/mythoria/refs/heads/main/images/0i9Msu5.png))
