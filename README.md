@@ -3,7 +3,7 @@
 
 Mythoria is an MMORPG based on solid foundations like Tibia, theforgottenserver and OTClientv8, combining much-loved classic concepts into a modern setting and solutions. For me personally, it is also a kind of childhood dream come true.
 
-## 🚀 Project description
+## 🚀 Game description
 
 The world of Mythoria is based on the now iconic Evolutions concept from 2007. You'll find more than 100 expansions and 3 cities, and the world will be expanded in every major patch. There's also room for a beach or a haunted field by Halloween pumpkins.
 
