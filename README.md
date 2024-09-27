@@ -12,6 +12,10 @@ mix files from v1.4.2.zip with this repo https://github.com/piotrboron/tfs/tree/
 $$ dependencies : 
 -MySQL -Apache -PHP 7.4 -ZnoteAAC -OtclientV8 (master)
 
+$$ how to run :
+
+- ./tfs
+
 
 ## 🚀 Game description
 
