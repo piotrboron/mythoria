@@ -4,14 +4,16 @@
 Mythoria is an MMORPG based on solid foundations like Tibia, theforgottenserver, OTClientv8 and ModernOt repo, combining much-loved classic concepts into a modern setting and solutions. For me personally, it is also a kind of childhood dream come true.
 
 ## how to host your own Mythoria :
-download https://github.com/otland/forgottenserver/archive/refs/tags/v1.4.2.zip
+1. download https://github.com/otland/forgottenserver/archive/refs/tags/v1.4.2.zip
 then unpack it <br/>
 
-compile tfs using this guide https://github.com/otland/forgottenserver/wiki/Compiling
-
+2. compile tfs using this guide https://github.com/otland/forgottenserver/wiki/Compiling
 <br/>
-then mix with this repo https://github.com/piotrboron/tfs/tree/main (overwrite)
-&& for AAC use this repo https://github.com/piotrboron/mythoria-aac/tree/main
+
+
+3. swap files with this repo, keep tfs executable only https://github.com/piotrboron/tfs/tree/main (overwrite) <br/>
+
+4. for AAC use https://github.com/Znote/ZnoteAAC
 
 $$ dependencies : 
 -MySQL -Apache -PHP 7.4 -ZnoteAAC -OtclientV8 (master)
