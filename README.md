@@ -10,10 +10,9 @@ then unpack it <br/>
 2. compile tfs using this guide https://github.com/otland/forgottenserver/wiki/Compiling
 <br/>
 
-
 3. swap files with this repo, keep tfs executable only https://github.com/piotrboron/tfs/tree/main (overwrite) <br/>
 
-4. for AAC use https://github.com/Znote/ZnoteAAC
+4. for AAC use ZnoteAAC v2 ( https://github.com/Znote/ZnoteAAC )
 
 $$ dependencies : 
 -MySQL -Apache -PHP 7.4 -ZnoteAAC -OtclientV8 (master)
